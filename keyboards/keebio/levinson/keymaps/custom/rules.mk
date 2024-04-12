@@ -1,0 +1,6 @@
+VIA_ENABLE = yes
+LTO_ENABLE = yes
+
+BOOTLOADER = atmel-dfu
+RGBLIGHT_SUPPORTED = yes
+RGBLIGHT_ENABLE = yes
