@@ -9,7 +9,7 @@
         "device_version": "0.0.1"
     },
     "rgblight": {
-        "led_count": 10,
+        "led_count": 3,
         "animations": {
             "breathing": true,
             "rainbow_mood": true,
@@ -24,7 +24,7 @@
         }
     },
     "ws2812": {
-        "pin": "F6"
+        "pin": "C7"
     },
     "matrix_pins": {
         "cols": ["D2", "F7"],
